@@ -42,4 +42,4 @@ def spiralMatrix(twoDArray)
 return resultArray
 end
 
-print (spiralMatrix(spiral3))
+print (spiralMatrix(spiral2))
